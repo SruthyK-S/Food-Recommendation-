@@ -28,5 +28,3 @@ for i in range(3):
         if i == 0:
             st.write("""No more "what's for dinner?" dread. Find hidden gems and forgotten favorites, 
                      rediscover the joy of cooking, or explore new cuisines with confidence.""")
-            
-
