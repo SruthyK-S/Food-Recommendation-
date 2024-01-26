@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(
     page_title="Recipe Generator",
     page_icon="🍓",
-    layout= "centered",
+    layout= "wide",
     initial_sidebar_state= "auto"
 )
 ingredients = st.text_input(label = "Enter ingredients separated by space")
